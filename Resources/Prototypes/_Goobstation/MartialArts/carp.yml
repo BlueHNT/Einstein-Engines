@@ -38,7 +38,7 @@
   - Harm
   event: !type:SleepingCarpGnashingTeethPerformedEvent
   damageType: Slash
-  extraDamage: 20
+  extraDamage: 30
 
 - type: combo
   id: SleepingCarpKneeHaul
